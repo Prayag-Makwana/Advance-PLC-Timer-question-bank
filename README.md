@@ -14,3 +14,9 @@ Q6. Make a logic using one NO – PB in such a way , Using one NO-PB  3 ON Motor
 Ans6. ![image](https://user-images.githubusercontent.com/75440724/121060120-da5b8f00-c7df-11eb-8806-c85162bf50ab.png)
 Q7. Make a logic using 1st -NO –START-PB , 2nd –NO – STOP –PB, mixer Motor and one solenoid valve, when START button is press mixer Motor start immediately and after 5 sec  solenoid valve gets ON, When we press STOP button both mixer Motor and Solenoid Valve gets OFF
 Ans7. ![image](https://user-images.githubusercontent.com/75440724/121060552-6ec5f180-c7e0-11eb-9276-d1ab77f757d2.png)
+Q8. Make a logic using one NO-PB and three Motors, in such a way when PB is press 3 Motors gets ON immediately, Motor-1 gets OFF after 5 sec, then Motor-2 gets OFF after 5 sec, then after 3 sec  Motor -3 gets OFF.
+Ans8. ![image](https://user-images.githubusercontent.com/75440724/121131833-f72eab80-c84d-11eb-93f1-c2b9c738fe8f.png)
+Q9. Make a logic using NO-START-PB, NO-STOP-PB, one Motor and one valve, In such a way when NO-START-PB is pressed valve should open for 10 sec. and after that Motor should run for 5 sec. this process continuously repeat, when NO-STOP-PB is pressed all process is stopped.
+Ans9. ![image](https://user-images.githubusercontent.com/75440724/121133255-c0599500-c84f-11eb-88fe-73ce9f5c141d.png)
+Q10. Make a logic using one NO-PB and two Motor, when PB is pressed Motor -1 start with same time and after 8 sec . Motor- 2 start and Motor-1 gets OFF.  After 12 sec Motor-2 gets OFF.
+Ans10. 
