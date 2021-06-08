@@ -19,4 +19,5 @@ Ans8. ![image](https://user-images.githubusercontent.com/75440724/121131833-f72e
 Q9. Make a logic using NO-START-PB, NO-STOP-PB, one Motor and one valve, In such a way when NO-START-PB is pressed valve should open for 10 sec. and after that Motor should run for 5 sec. this process continuously repeat, when NO-STOP-PB is pressed all process is stopped.
 Ans9. ![image](https://user-images.githubusercontent.com/75440724/121133255-c0599500-c84f-11eb-88fe-73ce9f5c141d.png)
 Q10. Make a logic using one NO-PB and two Motor, when PB is pressed Motor -1 start with same time and after 8 sec . Motor- 2 start and Motor-1 gets OFF.  After 12 sec Motor-2 gets OFF.
-Ans10. 
+Ans10. ![image](https://user-images.githubusercontent.com/75440724/121135949-aec5bc80-c852-11eb-96a6-5c3f81971e85.png)
+
